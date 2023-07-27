@@ -1,7 +1,9 @@
 # Analysis_of_PS4GameSales_using_Spark
 
 In the repository we performed a total of 11 different analysis on the dataset (PS4 Games Sales) using Spark. 
+
 Spark was used as it is developed to handle large-scale data processing tasks efficiently and is popular for several reasons:
+
 Speed: Spark is designed for in-memory data processing, which significantly speeds up data processing compared to traditional 
 disk-based processing systems like Hadoop MapReduce. It keeps intermediate data in memory, reducing the need for repeated 
 read/write operations to disk, leading to faster data processing.
